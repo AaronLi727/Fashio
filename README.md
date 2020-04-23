@@ -1,7 +1,7 @@
 # Fashio
 
 ``` 
-Demo (Full Video under Demo Folder)
+Demo (Full Video Here: https://youtu.be/soVYhIuvG2E)
 ```
 
 ![Fashio Demo](demo/FashioVid.gif)
@@ -18,6 +18,7 @@ An Application that allows users to post and view images submitted from numerous
 Disclaimer
 ```
 Not all backend functionalities are implemented, for example, only missing real time messaging between users. 
+In Addition, I do not own any of the images listed.
 
 
 ```
