@@ -1,10 +1,16 @@
 # Fashio
 
 ``` 
-Demo [Full Video](https://youtu.be/soVYhIuvG2E)
+Demo 
 ```
 
 ![Fashio Demo](demo/FashioVid.gif)
+
+```
+Link
+```
+
+[Full Video On Youtube](https://youtu.be/soVYhIuvG2E)
 
 
 ```
