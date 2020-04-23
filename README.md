@@ -7,10 +7,10 @@ Demo
 ![Fashio Demo](demo/FashioVid.gif)
 
 ```
-Link
+Full Video 
 ```
 
-[Full Video On Youtube](https://youtu.be/soVYhIuvG2E)
+https://youtu.be/soVYhIuvG2E
 
 
 ```
