@@ -1,7 +1,7 @@
 # Fashio
 
 ``` 
-Demo (Full Video Here: https://youtu.be/soVYhIuvG2E)
+Demo [Full Video](https://youtu.be/soVYhIuvG2E)
 ```
 
 ![Fashio Demo](demo/FashioVid.gif)
