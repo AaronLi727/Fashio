@@ -80,7 +80,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <div id="e0_73">
  <div class="form-group">
  	<div id="e0_72">
-     <input type="password" Name="new_password" class="form-control" value="<?php echo $new_password; ?>" >
+     <input type="password" Name="new_password" class="form-control" placeholder="Password" value="<?php echo $new_password; ?>" >
                 <span class="help-block"><?php echo $new_password_err; ?></span>
   </div>
 </div>

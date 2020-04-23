@@ -80,7 +80,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <div id="e0_73">
  <div class="form-group">
  	<div id="e0_72">
-     <input type="text" name="new_username" class="form-control"  value="<?php echo $new_username; ?>">
+     <input type="text" name="new_username" class="form-control"  placeholder =" Username" value="<?php echo $new_username; ?>">
                 <span class="help-block"><?php echo $new_username_err; ?></span>
   </div>
 </div>
