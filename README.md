@@ -1,7 +1,7 @@
 # Fashio
 
 ``` 
-Demo
+Demo (Full Video under Demo Folder)
 ```
 
 ![Fashio Demo](demo/FashioVid.gif)
